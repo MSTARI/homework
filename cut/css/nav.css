@@ -1,0 +1,45 @@
+nav {
+    height: 60px;
+    background: #2aafbc;
+    color: #acf0f2;
+    font-size: 12px;
+    text-align: center;
+    position: fixed;
+    top: 44px;
+    z-index: 99;
+}
+
+nav ul {
+    width: 80%;
+    display: inline-block;
+    border-right: 1px solid;
+}
+
+nav ul li {
+    display: inline-block;
+    width: 18%;
+}
+
+nav ul li span {
+    display: inline-block;
+}
+
+nav ul li span .iconfont {
+    font-size: 12px;
+}
+
+nav div {
+    display: inline-block;
+    width: 18%;
+    vertical-align: 5px;
+}
+
+nav div .iconfont {
+    font-size: 25px;
+}
+
+nav ul li:nth-of-type(2) {
+    background: #edfbfd;
+    border-radius: 5px;
+    color: #2aafbc
+}

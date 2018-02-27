@@ -1,0 +1,22 @@
+header {
+    background: #2aafbc;
+    color: #acf0f2;
+    font-size: 20px;
+    text-align: center;
+    height: 44px;
+    line-height: 44px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+}
+
+header .iconfont {
+    width: 10%;
+    font-size: 20px;
+}
+
+header span {
+    display: inline-block;
+    width: 80%;
+}

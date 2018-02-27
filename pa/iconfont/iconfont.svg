@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <font id="iconfont" horiz-adv-x="1024">
+      <font-face
+        font-family="iconfont"
+        units-per-em="1024"
+        ascent="896"
+        descent="128"
+      />
+      <missing-glyph horiz-adv-x="0"/>
+        <glyph
+          glyph-name="mob-jiantouyous-f"
+          unicode="&#xf3c8;"
+          horiz-adv-x="1024" d="M664 384L442 162 402 202 584 384 402 566 442 606" />
+        <glyph
+          glyph-name="mob-jiantouzuos-f"
+          unicode="&#xf3c9;"
+          horiz-adv-x="1024" d="M440 384L622 202 582 162 360 384 582 606 622 566" />
+    </font>
+  </defs>
+</svg>

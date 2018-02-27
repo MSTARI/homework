@@ -1,0 +1,39 @@
+footer {
+    width: 90%;
+    margin: 5% auto 0;
+    overflow: hidden;
+}
+footer div{
+    float: right;
+    font-weight: bold;
+    width: 95%;
+    margin-bottom: 10px;
+}
+footer div span{
+    line-height: 28px;
+}
+footer div input{
+    padding-left: 10px;
+    width: 82%;
+    height: 28px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    float: right;
+}
+button {
+    width: 80px;
+    height: 40px;
+    border-radius: 8px;
+    background: #337ab6;
+    border: none;
+    color: #fff;
+    float: right;
+}
+
+button:active {
+    box-shadow: inset 1px 1px #ccc;
+}
+
+button:hover {
+    cursor: pointer;
+}

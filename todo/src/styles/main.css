@@ -1,0 +1,52 @@
+main {
+    width: 90%;
+    height: 60%;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    background: #fff;
+}
+
+main ul {
+    overflow: auto;
+    height: 86%;
+}
+
+main ul li {
+    padding-left: 3%;
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #ccc;
+}
+
+main ul li input {
+    margin-right: 5px;
+    vertical-align: 2px;
+    cursor: pointer;
+}
+
+main ul li span {
+    float: right;
+    font-size: 14px;
+    color: #ccc;
+    margin-right: 8px;
+    display: none;
+}
+
+main ul li:hover span {
+    display: block;
+    cursor: pointer;
+}
+
+main div {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 14%;
+    line-height: 40px;
+    padding-left: 3%;
+    border-top: 1px solid #ccc;
+    background: #fff;
+}

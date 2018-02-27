@@ -1,0 +1,22 @@
+@import './styles/header.css';
+@import './styles/main.css';
+@import './styles/footer.css';
+* {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+.app {
+    width: 500px;
+    height: 500px;
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}

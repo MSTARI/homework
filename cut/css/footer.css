@@ -1,0 +1,25 @@
+footer {
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    bottom: -5px;
+    border-top: 1px solid #f8f8f8;
+    color: #a8a8a8;
+    text-align: center;
+    font-size: 14px;
+    background: #fff;
+    z-index: 100;
+}
+
+footer ul {
+    display: flex;
+    margin-top: 5px;
+}
+
+footer ul li {
+    width: 25%;
+}
+
+footer ul li:nth-of-type(2) {
+    color: #2aafbc;
+}
