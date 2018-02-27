@@ -57,8 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
-<<<<<<< HEAD
 # MAC
 .DS_Store
-=======
->>>>>>> f656fcad907ce7f99060b88cdeef00560854da5f
